@@ -1,5 +1,6 @@
 {
-   "name": "ai-website-generator",
+  "name": "ai-website-generator",
+  "type": "module",
   "version": "1.0.0",
   "description": "AI-powered website generator with beautiful animations",
   "author": "Wisdom Chizurumoke Edeji",
